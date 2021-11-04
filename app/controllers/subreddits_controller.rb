@@ -1,5 +1,5 @@
 class SubredditsController < ApplicationController
-  def TEST_SUBREDDIT
+  def show
     
   end
 end
