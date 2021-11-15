@@ -7,7 +7,7 @@ class SubredditsController < ApplicationController
   private
 
   def set_subreddit
-    @subreddit = Subreddit.find(params[:id])
+    @subreddit = Subreddit
   end
 
 
